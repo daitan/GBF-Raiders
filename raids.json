@@ -1110,4 +1110,36 @@
 	"image": "/assets/raids/BattleRaid_What_Makes_the_Sky_Blue_II_Impossible.png",
 	"category": "Current Event",
 	"element": "Dark"
+},
+{
+	"english": "Lvl 120 Grimnir",
+	"japanese": "Lv120 グリームニル",
+	"room": "lvl120grimnir",
+	"image": "/assets/raids/BattleRaid_Grimnir_Impossible.png",
+	"category": "Impossible Omega 2",
+	"element": "Wind"
+},
+{
+	"english": "Lvl 120 Godsworn Alexiel",
+	"japanese": "Lv120 ゴッドガード・ブローディア",
+	"room": "lvl120alex",
+	"image": "/assets/raids/BattleRaid_Alexiel_Impossible.png",
+	"category": "Impossible Omega 2",
+	"element": "Earth"
+},
+{
+	"english": "Lvl 120 Shiva",
+	"japanese": "Lv120 シヴァ",
+	"room": "lvl120shiva",
+	"image": "/assets/raids/BattleRaid_Shiva_Impossible.png",
+	"category": "Impossible Omega 2",
+	"element": "Fire"
+},
+{
+	"english": "Lvl 120 Europa",
+	"japanese": "Lv120 エウロペ",
+	"room": "lvl120europa",
+	"image": "/assets/raids/BattleRaid_Europa_Impossible.png",
+	"category": "Impossible Omega 2",
+	"element": "Water"
 }]
