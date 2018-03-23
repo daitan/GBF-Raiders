@@ -1142,4 +1142,20 @@
 	"image": "/assets/raids/BattleRaid_Europa_Impossible.png",
 	"category": "Impossible Omega 2",
 	"element": "Water"
+},
+{
+	"english": "Lvl 120 Metatron",
+	"japanese": "Lv120 メタトロン",
+	"room": "lvl120metatron",
+	"image": "/assets/raids/BattleRaid_Metatron_Impossible.png",
+	"category": "Impossible Omega 2",
+	"element": "Light"
+},
+{
+	"english": "Lvl 120 Avatar",
+	"japanese": "Lv120 アバター",
+	"room": "lvl120avatar",
+	"image": "/assets/raids/BattleRaid_Avatar_Impossible.png",
+	"category": "Impossible Omega 2",
+	"element": "Dark"
 }]
