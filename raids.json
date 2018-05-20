@@ -1092,7 +1092,7 @@
 	"japanese": "Lv30 ベリアル",
 	"room": "lvl30belial",
 	"image": "/assets/raids/BattleRaid_What_Makes_the_Sky_Blue_II_Very_Hard.jpg",
-	"category": "Current Event",
+	"category": "Event",
 	"element": "Dark"
 },
 {
@@ -1100,7 +1100,7 @@
 	"japanese": "Lv50 アバター",
 	"room": "lvl50avatar",
 	"image": "/assets/raids/BattleRaid_What_Makes_the_Sky_Blue_II_Extreme.jpg",
-	"category": "Current Event",
+	"category": "Event",
 	"element": "Dark"
 },
 {
@@ -1108,31 +1108,15 @@
 	"japanese": "Lv100 ベリアル",
 	"room": "lvl1000belial",
 	"image": "/assets/raids/BattleRaid_What_Makes_the_Sky_Blue_II_Impossible.png",
-	"category": "Current Event",
+	"category": "Event",
 	"element": "Dark"
-},
-{
-	"english": "Lvl 120 Grimnir",
-	"japanese": "Lv120 グリームニル",
-	"room": "lvl120grimnir",
-	"image": "/assets/raids/BattleRaid_Grimnir_Impossible.png",
-	"category": "Impossible Omega 2",
-	"element": "Wind"
-},
-{
-	"english": "Lvl 120 Godsworn Alexiel",
-	"japanese": "Lv120 ゴッドガード・ブローディア",
-	"room": "lvl120alex",
-	"image": "/assets/raids/BattleRaid_Alexiel_Impossible.png",
-	"category": "Impossible Omega 2",
-	"element": "Earth"
 },
 {
 	"english": "Lvl 120 Shiva",
 	"japanese": "Lv120 シヴァ",
 	"room": "lvl120shiva",
 	"image": "/assets/raids/BattleRaid_Shiva_Impossible.png",
-	"category": "Impossible Omega 2",
+	"category": "Impossible Omega II",
 	"element": "Fire"
 },
 {
@@ -1140,15 +1124,39 @@
 	"japanese": "Lv120 エウロペ",
 	"room": "lvl120europa",
 	"image": "/assets/raids/BattleRaid_Europa_Impossible.png",
-	"category": "Impossible Omega 2",
+	"category": "Impossible Omega II",
 	"element": "Water"
+},
+{
+	"english": "Lvl 120 Godsworn Alexiel",
+	"japanese": "Lv120 ゴッドガード・ブローディア",
+	"room": "lvl120alexiel",
+	"image": "/assets/raids/BattleRaid_Godsworn_Alexiel_Impossible.png",
+	"category": "Impossible Omega II",
+	"element": "Earth"
+},
+{
+	"english": "Lvl 120 Grimnir",
+	"japanese": "Lv120 グリームニル",
+	"room": "lvl120grimnir",
+	"image": "/assets/raids/BattleRaid_Grimnir_Impossible.png",
+	"category": "Impossible Omega II",
+	"element": "Wind"
+},
+{
+	"english": "Lvl 100 Xeno Corow",
+	"japanese": "Lv100 ゼノ・コロゥ",
+	"room": "lvl100xenocorow",
+	"image": "/assets/raids/BattleRaid_Xeno_Corow_Raid.png",
+	"category": "Event",
+	"element": "Light"
 },
 {
 	"english": "Lvl 120 Metatron",
 	"japanese": "Lv120 メタトロン",
 	"room": "lvl120metatron",
 	"image": "/assets/raids/BattleRaid_Metatron_Impossible.png",
-	"category": "Impossible Omega 2",
+	"category": "Impossible Omega II",
 	"element": "Light"
 },
 {
@@ -1156,6 +1164,86 @@
 	"japanese": "Lv120 アバター",
 	"room": "lvl120avatar",
 	"image": "/assets/raids/BattleRaid_Avatar_Impossible.png",
-	"category": "Impossible Omega 2",
+	"category": "Impossible Omega II",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 30 Mecha Zogora",
+	"japanese": "Lv30 覇壊機獣メカゾゴラ",
+	"room": "lvl30mechazogora",
+	"image": "/assets/raids/BattleRaid_Robomi_Generations_Raid_Very_Hard.png",
+	"category": "Event",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 50 Lord Daimon",
+	"japanese": "Lv50 覇壊神ダイモン",
+	"room": "lvl50lorddaimon",
+	"image": "/assets/raids/BattleRaid_Robomi_Generations_Raid_Extreme.png",
+	"category": "Event",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 30 Devastation Cannon",
+	"japanese": "Lv30 自律駆動ガトリング砲",
+	"room": "lvl30devastationcannon",
+	"image": "/assets/raids/BattleRaid_Detective_Conan_Gears_of_Conspiracy_Raid_Very_Hard.png",
+	"category": "Event",
+	"element": "Earth"
+},
+{
+	"english": "Lvl 50 Devastation Cannon",
+	"japanese": "Lv50 自律駆動ガトリング砲",
+	"room": "lvl50devastationcannon",
+	"image": "/assets/raids/BattleRaid_Detective_Conan_Gears_of_Conspiracy_Raid_Extreme.png",
+	"category": "Event",
+	"element": "Earth"
+},
+{
+	"english": "Lvl 30 Ahriman",
+	"japanese": "Lv30 アーリマン",
+	"room": "lvl30ahriman",
+	"image": "/assets/raids/BattleRaid_Eyeball_Hard.png",
+	"category": "Unite and Fight",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 40 Ahriman",
+	"japanese": "Lv40 アーリマン",
+	"room": "lvl40ahriman",
+	"image": "/assets/raids/BattleRaid_Eyeball_Very_Hard.png",
+	"category": "Unite and Fight",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 75 Wicked Rebel",
+	"japanese": "Lv75 ウィケッドレブル",
+	"room": "lvl75wickedrebel",
+	"image": "/assets/raids/BattleRaid_Wicked_Rebel_ExtremePlus.png",
+	"category": "Unite and Fight",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 90 Typhon",
+	"japanese": "Lv90 テュポーン",
+	"room": "lvl90typhon",
+	"image": "/assets/raids/BattleRaid_Typhon_Nightmare90.png",
+	"category": "Unite and Fight",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 95 Typhon",
+	"japanese": "Lv95 テュポーン",
+	"room": "lvl95typhon",
+	"image": "/assets/raids/BattleRaid_Typhon_Nightmare95.png",
+	"category": "Unite and Fight",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 100 Typhon",
+	"japanese": "Lv100 テュポーン",
+	"room": "lvl100typhon",
+	"image": "/assets/raids/BattleRaid_Typhon_Nightmare100.png",
+	"category": "Unite and Fight",
 	"element": "Dark"
 }]
