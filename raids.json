@@ -1270,4 +1270,28 @@
 	"image": "/assets/raids/BattleRaid_Snow_White_Nightmare100.png",
 	"category": "Unite and Fight",
 	"element": "Water"
+},
+{
+	"english": "Lvl 90 Tezcatlipoca",
+	"japanese": "Lv90 テスカトリポカ",
+	"room": "lvl90tezcatlipoca",
+	"image": "/assets/raids/BattleRaid_Tezcatlipoca_Nightmare90.png",
+	"category": "Unite and Fight",
+	"element": "Earth"
+},
+{
+	"english": "Lvl 95 Tezcatlipoca",
+	"japanese": "Lv95 テスカトリポカ",
+	"room": "lvl95tezcatlipoca",
+	"image": "/assets/raids/BattleRaid_Tezcatlipoca_Nightmare95.png",
+	"category": "Unite and Fight",
+	"element": "Earth"
+},
+{
+	"english": "Lvl 100 Tezcatlipoca",
+	"japanese": "Lv100 テスカトリポカ",
+	"room": "lvl100tezcatlipoca",
+	"image": "/assets/raids/BattleRaid_Tezcatlipoca_Nightmare100.png",
+	"category": "Unite and Fight",
+	"element": "Earth"
 }]
